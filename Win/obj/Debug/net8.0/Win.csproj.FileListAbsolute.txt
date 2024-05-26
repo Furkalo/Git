@@ -1,0 +1,15 @@
+C:\university\Test\Win\bin\Debug\net8.0\Win.exe
+C:\university\Test\Win\bin\Debug\net8.0\Win.deps.json
+C:\university\Test\Win\bin\Debug\net8.0\Win.runtimeconfig.json
+C:\university\Test\Win\bin\Debug\net8.0\Win.dll
+C:\university\Test\Win\bin\Debug\net8.0\Win.pdb
+C:\university\Test\Win\obj\Debug\net8.0\Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\Test\Win\obj\Debug\net8.0\Win.AssemblyInfoInputs.cache
+C:\university\Test\Win\obj\Debug\net8.0\Win.AssemblyInfo.cs
+C:\university\Test\Win\obj\Debug\net8.0\Win.csproj.CoreCompileInputs.cache
+C:\university\Test\Win\obj\Debug\net8.0\Win.sourcelink.json
+C:\university\Test\Win\obj\Debug\net8.0\Win.dll
+C:\university\Test\Win\obj\Debug\net8.0\refint\Win.dll
+C:\university\Test\Win\obj\Debug\net8.0\Win.pdb
+C:\university\Test\Win\obj\Debug\net8.0\Win.genruntimeconfig.cache
+C:\university\Test\Win\obj\Debug\net8.0\ref\Win.dll
